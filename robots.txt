@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+
+
+ sitemap: https://tg-nav.github.io/nodeshare/sitemap.xml
