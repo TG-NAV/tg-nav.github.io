@@ -11,56 +11,6 @@ Tg电报纸飞机频道群组 - Telegram频道群组导航。收录Telegram上�
 | [极搜](https://t.me/jisou2bot?start=a_6113195484)                              | TG必备的搜索引擎，极搜JISOU帮你精准找到，想要的群组、频道、音乐 、视频      | 搜索机器人   |
 | [SOSO搜搜](https://t.me/soso?start=a_6128203748) | 🔍 发送关键词来寻找群组、频道或视频SOSO - 更懂你。 | 搜索机器人   |
 | [极搜](https://t.me/jisou2bot?start=a_6128203748)                              | TG必备的搜索引擎，极搜JISOU帮你精准找到，想要的群组、频道、音乐 、视频      | 搜索机器人   |
-## 科学上网翻墙高速机场推荐：
-
-###  高速机场推荐
-
-[【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
-不限设备数
-
-解锁流媒体、chatGPT
-
-注册地址：[【EFCloud官网（点击注册）】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
-
-### 高速机场推荐1
-
-[【快猫】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
-
-季付送小火箭，流量多，优惠多
-
-而且不限登录设备数，解锁奈飞
-
-注册地址：[【快猫官网（点击注册）】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
-
-### 高速机场推荐2
-
-[【FCCloud】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
-
-FCCloud全球节点，解锁流媒体GPT，平民价格
-
-注册地址：[【FCCloud（点击注册）】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
-
-### 高速机场推荐3
-
-[【火烧云】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
-🟢全中转高速节点
-🟢流媒体GPT解锁
-🟢解锁冷门国家
-
-
-解锁流媒体、chatGPT
-
-注册地址：[【火烧云官网（点击注册）】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
-
-### 高速机场推荐4 
-
-[【轻云】](https://qingyun.world/#/register?code=C5zOLvph)
-不限设备数
-
-解锁流媒体、chatGPT
-
-注册地址：[【轻云官网（点击注册）】](https://qingyun.world/#/register?code=C5zOLvph)
-
 
 更多信息请查看： [关于网站](https://telegeam.github.io/about)
 
