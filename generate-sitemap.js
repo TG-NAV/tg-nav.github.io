@@ -21,14 +21,17 @@ function getAllFiles(dirPath, arrayOfFiles) {
     return arrayOfFiles;
 }
 
-// Generate sitemap.xml content
+// Generate sitemap.xml content with lastmod and priority
 function generateSitemap(files) {
     let xml = '<?xml version="1.0" encoding="UTF-8"?>\n';
     xml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
 
     files.forEach(function(file) {
         const url = 'https://tg-nav.github.io/' + file.replace('./', ''); // Update URL as needed
-        xml += `\t<url>\n\t\t<loc>${url}</loc>\n\t</url>\n`;
+        const lastmod = new Date().toISOString().split('T')[0]; // Current date as lastmod
+        const priority = 0.5; // Set priority as needed
+
+        xml += `\t<url>\n\t\t<loc>${url}</loc>\n\t\t<lastmod>${lastmod}</lastmod>\n\t\t<priority>${priority}</priority>\n\t</url>\n`;
     });
 
     xml += '</urlset>';
