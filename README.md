@@ -12,10 +12,10 @@ Tg电报纸飞机频道群组 - Telegram频道群组导航。收录Telegram上�
 | [极搜](https://t.me/jisou?start=a_6113195484)                              | TG必备的搜索引擎，极搜JISOU帮你精准找到，想要的群组、频道、音乐 、视频      | 搜索机器人   |
 | [极搜](https://t.me/jisou?start=a_6128203748)                              | TG必备的搜索引擎，极搜JISOU帮你精准找到，想要的群组、频道、音乐 、视频      | 搜索机器人   |
 | [JISO搜索](https://t.me/jisou?start=a_6128203748) | 🔍 发送关键词来寻找群组、频道或视频。 | 搜索机器人   |
-| [SOSO搜搜](https://t.me/soso?start=a_6113195484) | 🔍 发送关键词来寻找群组、频道或视频SOSO - 更懂你。 | 搜索机器人   |
+| [SOSO搜搜](https://t.me/beijingxiuchea) | 🔍 发送关键词来寻找群组、频道或视频SOSO - 更懂你。 | 搜索机器人   |
 | [神马搜索](https://t.me/smss?start=spread_6128203748) | 🔍 发送关键词来寻找群组、频道或视频。 | 搜索机器人   |
 | [极搜](https://t.me/jisou?start=a_6113195484)                              | TG必备的搜索引擎，极搜JISOU帮你精准找到，想要的群组、频道、音乐 、视频      | 搜索机器人   |
-| [SOSO搜搜](https://t.me/soso?start=a_6128203748) | 🔍 发送关键词来寻找群组、频道或视频SOSO - 更懂你。 | 搜索机器人   |
+| [SOSO搜搜](https://t.me/beijingxiuchea) | 🔍 发送关键词来寻找群组、频道或视频SOSO - 更懂你。 | 搜索机器人   |
 | [极搜](https://t.me/jisou?start=a_6128203748)                              | TG必备的搜索引擎，极搜JISOU帮你精准找到，想要的群组、频道、音乐 、视频      | 搜索机器人   |
 
 更多信息请查看： [关于网站](https://telegeam.github.io/about)
@@ -56,7 +56,7 @@ TRC20网络地址：TVoG1TzpsipVPBCdym6cCQbecqaHfgecmg
 | 名称                                                         | 简介                                                         | 人数   | 类型   |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | :----- | :----- |
 | [极搜](https://t.me/jisou2bot?start=a_6113195484)                              | TG必备的搜索引擎，极搜JISOU帮你精准找到，想要的群组、频道、音乐 、视频      | - | 搜索机器人   |
-| [SOSO搜搜](https://t.me/soso?start=a_6113195484) | 🔍 发送关键词来寻找群组、频道或视频SOSO - 搜搜更懂你。 | - | 搜索机器人   |
+| [SOSO搜搜](https://t.me/beijingxiuchea) | 🔍 发送关键词来寻找群组、频道或视频SOSO - 搜搜更懂你。 | - | 搜索机器人   |
 | [神马搜索](https://t.me/smss?start=spread_6128203748) | 🔍 发送关键词来寻找群组、频道或视频SOSO - 更懂你。 | - | 搜索机器人   |
 | [i快搜](https://t.me/ikuaisobot?start=6128203748) | 🔍 发送关键词来寻找群组、频道或视频i快搜搜索 - 更懂你。 | - | 搜索机器人   |
 | [加密货币｜DeFi｜Web3](https://t.me/telonews_cn)             | 最新的加密货币新闻，观点和数据分析，洞见市场发展             | 124700 | 频道   |
