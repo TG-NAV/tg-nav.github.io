@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-
+ sitemap: https://a353502.sitemaphosting7.com/4633991/sitemap_4633991.xml
  sitemap: https://tg-nav.github.io/sitemap.xml
- sitemap: https://tg-nav.github.io/clashnode/
+ sitemap: https://tg-nav.github.io/clashnode/sitemap.xml
  sitemap: https://tg-nav.github.io/nodeshare/sitemap.xml
