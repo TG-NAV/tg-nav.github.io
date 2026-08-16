@@ -74,6 +74,7 @@ TRC20网络地址：TVoG1TzpsipVPBCdym6cCQbecqaHfgecmg
 | [Telegram中文语言包](https://t.me/Tele_zh_CN)                | Telegram十万人群                                             | 49826  | 频道   |
 | [足控天堂](https://t.me/sizukon)                             | 原创美腿丝袜，黑丝、肉丝、蕾丝、足控、高跟鞋、私房、空姐、制服诱惑等高清无码美女写真拍摄 | 46538  | 频道   |
 | [心情文案吧](https://t.me/WenAnBa)                           | 文案 壁纸 头像 每日更新                                      | 43409  | 频道   |
+| [深层回响｜反差与阴影](https://t.me/fanchawen)               | 匿名心理测试频道，每日更新反差人格、失控心理与自我探索类短内容，附匿名心理问卷 | 1 | 频道 |
 | [颜值即正义](https://t.me/yzjzy)                             | 颜值即正义                                                   | 42708  | 频道   |
 | [开源阅读｜频道](https://t.me/Legado_Channels)               | 阅读APK、书源、背景排版及部分公众号内容，还有群友的推文投稿  | 40908  | 频道   |
 | [极客分享](https://t.me/geekshare)                           | 专注分享各种高质量网站、工具、APP、开源项目等一切好玩的东西  | 36427  | 频道   |
